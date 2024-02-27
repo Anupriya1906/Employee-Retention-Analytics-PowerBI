@@ -1,6 +1,6 @@
 # Employee-Retention-Analytics-PowerBI
 
-![image](HR Dashboard.png)
+![image](HR-Dashboard.png)
 
 This HR Analytics dashboard provides a comprehensive overview of key performance indicators (KPIs) related to the organization's employee retention. 
 
